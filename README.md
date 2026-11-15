@@ -36,6 +36,7 @@ weather-app/
 └── README.md
 ```
 
+
 ---
 
 ##  Getting Started
@@ -89,6 +90,7 @@ Simply open **index.html** in your browser.
 *  Animated weather backgrounds
 
 ---
+
 
 ##  Security Note
 

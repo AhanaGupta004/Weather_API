@@ -26,6 +26,7 @@ A modern and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 ---
 
+
 ##  Project Structure
 
 ```text

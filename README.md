@@ -3,7 +3,6 @@
 A modern and responsive Weather Application built using **HTML, CSS, and JavaScript**. Users can search for any city to view the current weather conditions in real time using the **WeatherAPI** service.
 
 ---
-
 ##  Features
 
 *  Search weather by city name
